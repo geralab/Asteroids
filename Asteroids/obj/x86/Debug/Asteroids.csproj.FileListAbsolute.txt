@@ -1,0 +1,134 @@
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Spaceship4.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Weapon1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Fire.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Fire2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Spaceship6.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLarge.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Small.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Medium.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Large.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\SmallChunk1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LargeChunk1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LargeChunk2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LargeChunk3.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk3.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk4.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Enemy1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Enemy Weapon.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\WeaponSound1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\SB.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\SB.wma
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\FireSound.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\Boom.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back1.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back3.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back4.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back6.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back10.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back11.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back12.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back13.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back8.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back9.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back7.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back5.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Weapon2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk3.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk4.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk5.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\NextLevel.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back14.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back15.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back16.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back17.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back19.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back20.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back21.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back18.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\CLUNKIT.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\FlaskGone.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\ELECTRIC.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\CLUNKIT2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\ELECTRIC2.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\EWHS.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\AsteroidCollision.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\NextLevel.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Fire.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Fire2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Spaceship4.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Spaceship6.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Weapon1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLarge.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Small.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Large.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Medium.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\SmallChunk1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LargeChunk1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LargeChunk2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LargeChunk3.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk3.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\ExtraLargeChunk4.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Enemy1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Enemy Weapon.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back3.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back4.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back6.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back10.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back11.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back12.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back13.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back8.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back9.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back7.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back5.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\Weapon2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk3.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk4.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\MediumChunk5.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back14.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back15.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back16.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back17.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back19.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back20.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back21.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Images\back18.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\SB.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\WeaponSound1.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\FireSound.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\Boom.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\CLUNKIT.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\FlaskGone.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\ELECTRIC.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\ELECTRIC2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\EWHS.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\AsteroidCollision.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\CLUNKIT2.xnb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Sound\SB.wma
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\Gerald Alston Blake\Google Drive\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb

@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Arial.xnb</Output>
+      <Time>2013-02-28T01:53:12.2747375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Fire.jpg</Source>
+      <Name>Images\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Fire.xnb</Output>
+      <Time>2013-02-09T20:16:50.6862566-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Fire2.png</Source>
+      <Name>Images\Fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Fire2.xnb</Output>
+      <Time>2013-05-18T22:29:24.9476384-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Spaceship4.png</Source>
+      <Name>Images\Spaceship4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Spaceship4.xnb</Output>
+      <Time>2013-02-18T10:43:13.2606598-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Spaceship6.png</Source>
+      <Name>Images\Spaceship6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Spaceship6.xnb</Output>
+      <Time>2013-02-18T10:22:27.6002769-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Weapon1.png</Source>
+      <Name>Images\Weapon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Weapon1.xnb</Output>
+      <Time>2013-02-28T01:46:19.0105958-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ExtraLarge.png</Source>
+      <Name>Images\ExtraLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\ExtraLarge.xnb</Output>
+      <Time>2013-02-18T21:29:19.7092724-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Small.png</Source>
+      <Name>Images\Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Small.xnb</Output>
+      <Time>2013-02-18T20:04:40.8567193-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Large.png</Source>
+      <Name>Images\Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Large.xnb</Output>
+      <Time>2013-02-18T21:53:03.8796928-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Medium.png</Source>
+      <Name>Images\Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Medium.xnb</Output>
+      <Time>2013-02-19T00:15:15.3027795-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SmallChunk1.png</Source>
+      <Name>Images\SmallChunk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\SmallChunk1.xnb</Output>
+      <Time>2013-02-19T01:23:23.7403973-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MediumChunk1.png</Source>
+      <Name>Images\MediumChunk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\MediumChunk1.xnb</Output>
+      <Time>2013-02-27T18:57:41.5680986-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MediumChunk2.png</Source>
+      <Name>Images\MediumChunk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\MediumChunk2.xnb</Output>
+      <Time>2013-02-28T01:42:28.1474479-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LargeChunk1.png</Source>
+      <Name>Images\LargeChunk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\LargeChunk1.xnb</Output>
+      <Time>2013-02-28T01:42:28.154476-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LargeChunk2.png</Source>
+      <Name>Images\LargeChunk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\LargeChunk2.xnb</Output>
+      <Time>2013-02-28T01:41:23.4113099-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LargeChunk3.png</Source>
+      <Name>Images\LargeChunk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\LargeChunk3.xnb</Output>
+      <Time>2013-02-28T01:42:00.9770758-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ExtraLargeChunk1.png</Source>
+      <Name>Images\ExtraLargeChunk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\ExtraLargeChunk1.xnb</Output>
+      <Time>2013-02-19T01:17:27.8588683-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ExtraLargeChunk2.png</Source>
+      <Name>Images\ExtraLargeChunk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\ExtraLargeChunk2.xnb</Output>
+      <Time>2013-02-19T01:18:48.9392197-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ExtraLargeChunk3.png</Source>
+      <Name>Images\ExtraLargeChunk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\ExtraLargeChunk3.xnb</Output>
+      <Time>2013-02-19T01:18:04.5155071-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ExtraLargeChunk4.png</Source>
+      <Name>Images\ExtraLargeChunk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\ExtraLargeChunk4.xnb</Output>
+      <Time>2013-02-19T01:19:35.0811112-06:00</Time>
+    </Item>
+    <Item>
+      <Source>NextLevel.spritefont</Source>
+      <Name>NextLevel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\NextLevel.xnb</Output>
+      <Time>2013-02-27T20:36:05.2869503-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemy1.png</Source>
+      <Name>Images\Enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Enemy1.xnb</Output>
+      <Time>2013-02-19T19:21:10.3680804-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemy Weapon.png</Source>
+      <Name>Images\Enemy Weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Enemy Weapon.xnb</Output>
+      <Time>2013-02-22T10:08:00.5367742-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LevelComplete.png</Source>
+      <Name>Images\LevelComplete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\LevelComplete.xnb</Output>
+      <Time>2013-02-27T23:12:01.1575594-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back1.jpg</Source>
+      <Name>Images\back1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back1.xnb</Output>
+      <Time>2013-02-23T02:50:41.9231526-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back2.jpg</Source>
+      <Name>Images\back2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back2.xnb</Output>
+      <Time>2013-02-23T03:03:22.3810496-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back3.jpg</Source>
+      <Name>Images\back3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back3.xnb</Output>
+      <Time>2013-02-22T23:31:36.985059-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back4.jpg</Source>
+      <Name>Images\back4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back4.xnb</Output>
+      <Time>2013-03-17T18:35:38.8992788-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back6.jpg</Source>
+      <Name>Images\back6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back6.xnb</Output>
+      <Time>2013-02-23T01:40:26.2493261-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back10.jpg</Source>
+      <Name>Images\back10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back10.xnb</Output>
+      <Time>2013-02-23T02:32:41.9508866-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back11.jpg</Source>
+      <Name>Images\back11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back11.xnb</Output>
+      <Time>2013-02-23T01:53:30.5961872-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back12.jpg</Source>
+      <Name>Images\back12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back12.xnb</Output>
+      <Time>2013-02-23T01:54:34.6543197-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back13.jpg</Source>
+      <Name>Images\back13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back13.xnb</Output>
+      <Time>2013-02-23T01:55:33.9707887-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back8.jpg</Source>
+      <Name>Images\back8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back8.xnb</Output>
+      <Time>2013-02-23T01:51:27.8937122-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back9.jpg</Source>
+      <Name>Images\back9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back9.xnb</Output>
+      <Time>2013-02-23T01:52:35.261206-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back7.jpg</Source>
+      <Name>Images\back7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back7.xnb</Output>
+      <Time>2013-02-23T01:50:21.8013944-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back5.jpg</Source>
+      <Name>Images\back5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back5.xnb</Output>
+      <Time>2013-02-23T02:44:11.3498273-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Weapon2.png</Source>
+      <Name>Images\Weapon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\Weapon2.xnb</Output>
+      <Time>2013-02-19T18:56:31.0653189-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MediumChunk3.png</Source>
+      <Name>Images\MediumChunk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\MediumChunk3.xnb</Output>
+      <Time>2013-02-28T01:42:28.1384892-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MediumChunk4.png</Source>
+      <Name>Images\MediumChunk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\MediumChunk4.xnb</Output>
+      <Time>2013-02-28T01:42:28.1304755-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MediumChunk5.png</Source>
+      <Name>Images\MediumChunk5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\MediumChunk5.xnb</Output>
+      <Time>2013-02-28T01:39:37.6579538-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back14.jpg</Source>
+      <Name>Images\back14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back14.xnb</Output>
+      <Time>2013-02-28T03:01:18.7463075-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back15.jpg</Source>
+      <Name>Images\back15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back15.xnb</Output>
+      <Time>2013-02-28T02:53:40.5455062-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back16.jpg</Source>
+      <Name>Images\back16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back16.xnb</Output>
+      <Time>2013-02-28T03:02:19.41294-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back17.jpg</Source>
+      <Name>Images\back17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back17.xnb</Output>
+      <Time>2013-02-28T03:03:05.2957921-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back19.jpg</Source>
+      <Name>Images\back19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back19.xnb</Output>
+      <Time>2013-02-28T03:03:46.6680203-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back20.jpg</Source>
+      <Name>Images\back20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back20.xnb</Output>
+      <Time>2013-02-28T03:04:24.9008197-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back21.jpg</Source>
+      <Name>Images\back21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back21.xnb</Output>
+      <Time>2013-02-28T03:04:56.7928135-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back18.jpg</Source>
+      <Name>Images\back18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Images\back18.xnb</Output>
+      <Time>2013-02-28T03:15:43.4024266-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\SB.mp3</Source>
+      <Name>Sound\SB</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\SB.xnb</Output>
+      <Extra>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\SB.wma</Extra>
+      <Time>2013-02-20T14:55:39.2999832-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\WeaponSound1.wav</Source>
+      <Name>Sound\WeaponSound1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\WeaponSound1.xnb</Output>
+      <Time>2013-02-20T15:04:20.9564997-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\FireSound.wav</Source>
+      <Name>Sound\FireSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\FireSound.xnb</Output>
+      <Time>2013-02-20T16:33:55.4921752-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Boom.wav</Source>
+      <Name>Sound\Boom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\Boom.xnb</Output>
+      <Time>2013-02-20T18:28:01.3244791-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\CLUNKIT.WAV</Source>
+      <Name>Sound\CLUNKIT</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\CLUNKIT.xnb</Output>
+      <Time>2003-04-06T15:19:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\FlaskGone.wav</Source>
+      <Name>Sound\FlaskGone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\FlaskGone.xnb</Output>
+      <Time>2001-04-19T04:38:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ELECTRIC.WAV</Source>
+      <Name>Sound\ELECTRIC</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\ELECTRIC.xnb</Output>
+      <Time>2003-04-06T15:19:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ELECTRIC2.wav</Source>
+      <Name>Sound\ELECTRIC2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\ELECTRIC2.xnb</Output>
+      <Time>2013-03-05T00:35:49.1208211-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\EWHS.wav</Source>
+      <Name>Sound\EWHS</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\EWHS.xnb</Output>
+      <Time>2013-03-05T00:32:39.2436049-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\AsteroidCollision.wav</Source>
+      <Name>Sound\AsteroidCollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\AsteroidCollision.xnb</Output>
+      <Time>2013-03-05T00:36:28.8518689-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\CLUNKIT2.wav</Source>
+      <Name>Sound\CLUNKIT2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\Sound\CLUNKIT2.xnb</Output>
+      <Time>2013-03-05T00:31:38.5589047-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\AsteroidsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\AsteroidsContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-09T19:28:24.5344893-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
